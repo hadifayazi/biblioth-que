@@ -1,0 +1,31 @@
+.body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.gen-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+
+
+.main{
+    height: 100vh;
+    display: block;
+    justify-content: center;
+    background-image: url("/new/alfons-morales-YLSwjSy7stw-unsplash.jpg");
+    
+    
+}
+img{
+    margin-right: 300px;
+    margin-top: 100px;
+}
+.btn.btn-primary{
+    color: #FFFFFF;
+}
+a{
+    text-decoration: none;
+}
